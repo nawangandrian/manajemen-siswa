@@ -38,4 +38,4 @@ Aplikasi ini juga memiliki halaman tambahan seperti:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/manajemen-siswa.git
+git clone https://github.com/nawangandrian/manajemen-siswa.git
