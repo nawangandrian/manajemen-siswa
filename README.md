@@ -16,26 +16,44 @@
 Aplikasi ini dibuat menggunakan **Laravel 12** sebagai framework PHP untuk memudahkan pengelolaan data siswa.  
 Fitur utama dari aplikasi ini meliputi:
 
-- **Create:** Menambahkan data siswa baru.
-- **Read:** Melihat daftar siswa beserta detailnya.
-- **Update:** Mengubah informasi siswa yang sudah ada.
-- **Delete:** Menghapus data siswa.
+-   **Create:** Menambahkan data siswa baru.
+-   **Read:** Melihat daftar siswa beserta detailnya.
+-   **Update:** Mengubah informasi siswa yang sudah ada.
+-   **Delete:** Menghapus data siswa.
 
 Aplikasi ini juga memiliki halaman tambahan seperti:
 
-- **Home:** Halaman utama aplikasi.
-- **About:** Informasi tentang aplikasi dan pengembang.
-- **Contact:** Form untuk menampilkan kontak atau informasi tambahan.
+-   **Home:** Halaman utama aplikasi.
+-   **About:** Informasi tentang aplikasi dan pengembang.
+-   **Contact:** Form untuk menampilkan kontak atau informasi tambahan.
+
+## Screenshot Aplikasi
+
+Berikut contoh tampilan aplikasi:
+
+<p align="center">
+  <img src="public/screenshots/home.png" width="600" alt="Home Page">
+</p>
+
+<p align="center">
+  <img src="public/screenshots/siswa-index.png" width="600" alt="Daftar Siswa">
+</p>
+
+<p align="center">
+  <img src="public/screenshots/siswa-create.png" width="600" alt="Tambah Siswa">
+</p>
 
 ## Teknologi yang Digunakan
 
-- **Backend:** Laravel (PHP Framework)
-- **Frontend:** Blade Template, Tailwind CSS
-- **Database:** MySQL / SQLite (bisa dikonfigurasi)
-- **Version Control:** Git dan GitHub
+-   **Backend:** Laravel 12 (PHP Framework)
+-   **Frontend:** Blade Template, Tailwind CSS
+-   **Database:** MySQL
+-   **Version Control:** Git dan GitHub
 
 ## Cara Menjalankan Aplikasi (Localhost)
 
 1. Clone repository:
+
 ```bash
 git clone https://github.com/nawangandrian/manajemen-siswa.git
+```
